@@ -26,7 +26,7 @@ class Screen1 extends StatelessWidget
 
       bottomNavigationBar: BottomAppBar(
         shape: CircularNotchedRectangle(),
-        color: Colors.teal,
+        color: Colors.pink,
         child: Row(
           children: [
             IconButton(onPressed: (){},
